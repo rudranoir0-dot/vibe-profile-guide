@@ -1,7 +1,7 @@
 
 # 🌌 Vibe Profile Guide — Weave Worlds into Your GitHub Profile
 
-> *Turn your GitHub profile into more than a resume — make it a story, an RPG sheet, a vibe.*  
+> *Turn your GitHub profile into more than a resume —  a vibe.*  
 > This guide walks you through **step by step** how to craft a dynamic, animated, and thematic GitHub profile README, just like the one powering **Rudra Noir — The Vibe Coder**.
 
 ---
